@@ -15,4 +15,5 @@ At a higher level, our system interacts with the user through transmitters on th
 
 ## References
 
-* For more help, search the SYS/BIOS User Guide.
+* For more help, search the CC3220 SimpleLink™ Wi-Fi® Wireless and Internet-of-Things Solution,
+a Single-Chip Wireless MCU User Guide.
